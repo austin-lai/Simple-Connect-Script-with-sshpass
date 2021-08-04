@@ -6,7 +6,7 @@
 
 <!-- Description -->
 
-Simple Connect Script with sshpass, built for fun.
+[Simple Connect Script with sshpass](https://github.com/austin-lai/Simple-Connect-Script-with-sshpass/blob/master/connect-script-v0.2.sh), built for fun.
 
 Although you can use the sshpass and ssh command with Google 🤪
 
